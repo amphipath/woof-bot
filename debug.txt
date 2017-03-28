@@ -1,0 +1,39 @@
+[2017-03-28 21:23:57.957202] [INFO] on_ready triggered!
+[2017-03-28 21:27:37.910363] [INFO] on_ready triggered!
+[2017-03-28 21:30:12.528303] [INFO] on_ready triggered!
+[2017-03-28 21:32:22.403083] [INFO] on_ready triggered!
+[2017-03-28 21:35:31.219213] [INFO] on_ready triggered!
+[2017-03-28 21:40:05.012338] [DEBUG] Parsing command help with parameters `` from amph (114944842798202887)
+[2017-03-28 21:43:19.476489] [DEBUG] Parsing command coin with parameters `` from amph (114944842798202887)
+[2017-03-28 21:44:10.704449] [INFO] on_ready triggered!
+[2017-03-28 21:55:48.949204] [INFO] on_ready triggered!
+[2017-03-28 21:56:43.140443] [INFO] on_ready triggered!
+[2017-03-28 21:56:43.295788] **[ERROR]** <@114944842798202887> Could not find players role Players
+[2017-03-28 21:56:43.476915] **[ERROR]** <@114944842798202887> Could not find admins role Admins
+[2017-03-28 21:56:43.748649] **[WARNING]** Could not find Werewolf Notify role Werewolf Notify
+[2017-03-28 22:04:39.825497] [INFO] on_ready triggered!
+[2017-03-28 22:04:40.067835] [DEBUG] Players role id: 114945242637008896
+[2017-03-28 22:04:40.227140] **[ERROR]** <@114944842798202887> Could not find admins role werewolf-admin
+[2017-03-28 22:04:40.378188] **[WARNING]** Could not find Werewolf Notify role Werewolf Notify
+[2017-03-28 22:06:15.268902] [INFO] on_ready triggered!
+[2017-03-28 22:06:15.426168] [DEBUG] Players role id: 114945242637008896
+[2017-03-28 22:06:15.602559] [DEBUG] Admins role id: 296389342556061697
+[2017-03-28 22:06:15.768645] [DEBUG] Werewolf Notify role id: 296389416501641226
+[2017-03-28 22:06:33.451258] [DEBUG] Parsing command help with parameters `` from amph (114944842798202887)
+[2017-03-28 22:06:38.261679] [DEBUG] Parsing command list with parameters `` from amph (114944842798202887)
+[2017-03-28 22:06:47.452667] [DEBUG] Parsing command help with parameters `fjoin` from amph (114944842798202887)
+[2017-03-28 22:06:56.491956] [DEBUG] Parsing command help with parameters `j` from amph (114944842798202887)
+[2017-03-28 22:06:59.156897] [DEBUG] Parsing command help with parameters `join` from amph (114944842798202887)
+[2017-03-28 22:08:58.791879] [INFO] on_ready triggered!
+[2017-03-28 22:08:59.240230] [DEBUG] Players role id: 114945242637008896
+[2017-03-28 22:08:59.380188] [DEBUG] Admins role id: 296389342556061697
+[2017-03-28 22:08:59.535250] **[WARNING]** Could not find Werewolf Notify role Werewolf Notify
+[2017-03-28 22:09:48.258285] [INFO] on_ready triggered!
+[2017-03-28 22:09:48.456344] [DEBUG] Players role id: 296389948372811777
+[2017-03-28 22:09:48.637110] [DEBUG] Admins role id: 296389342556061697
+[2017-03-28 22:09:49.010816] [DEBUG] Werewolf Notify role id: 296389416501641226
+[2017-03-28 22:10:15.830743] [DEBUG] Parsing command help with parameters `gamemodes` from amph (114944842798202887)
+[2017-03-28 22:10:20.129607] [DEBUG] Parsing command gamemodes with parameters `` from amph (114944842798202887)
+[2017-03-28 22:10:44.035150] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
+[2017-03-28 22:11:11.451996] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
+[2017-03-28 22:13:34.907989] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
