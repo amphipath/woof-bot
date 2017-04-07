@@ -37,3 +37,8 @@
 [2017-03-28 22:10:44.035150] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
 [2017-03-28 22:11:11.451996] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
 [2017-03-28 22:13:34.907989] [DEBUG] Parsing command info with parameters `` from amph (114944842798202887)
+[2017-04-07 21:08:55.010850] [INFO] on_ready triggered!
+[2017-04-07 21:08:55.167128] [DEBUG] Players role id: 296389948372811777
+[2017-04-07 21:08:55.345899] [DEBUG] Admins role id: 296389342556061697
+[2017-04-07 21:08:55.484342] [DEBUG] Werewolf Notify role id: 296389416501641226
+[2017-04-07 21:09:14.718447] [DEBUG] Parsing command gamemodes with parameters `` from amph (114944842798202887)
