@@ -2738,7 +2738,8 @@ gamemodes = {
                  'cursed villager' :
                    [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
                  'gunner' :
-                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0]}
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0]},
+    
                 'vanilla' : { # This is a template you can use for making your own gamemodes.
                   # 4, 5, 6, 7, 8, 9, 10,11,12,13,14,15,16
                  'wolf' :
