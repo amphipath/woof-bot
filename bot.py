@@ -2714,6 +2714,7 @@ gamemodes = {
                    [0, 0, 0, 0, 1, 1,  1, 2, 2, 2, 3, 3, 3],
                  'cursed villager' :
                    [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0]},
+    
             'template' : { # This is a template you can use for making your own gamemodes.
                   # 4, 5, 6, 7, 8, 9, 10,11,12,13,14,15,16
                  'wolf' :
@@ -2738,6 +2739,30 @@ gamemodes = {
                    [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
                  'gunner' :
                    [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0]}
+                'vanilla' : { # This is a template you can use for making your own gamemodes.
+                  # 4, 5, 6, 7, 8, 9, 10,11,12,13,14,15,16
+                 'wolf' :
+                   [1, 1, 2, 2, 2, 3,  3, 3, 4, 4, 4, 5, 5],
+                 'werecrow' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'traitor' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'cultist' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'seer' :
+                   [1, 1, 1, 1, 1, 1,  2, 2, 2, 2, 2, 2, 2],
+                 'shaman' :
+                   [1, 1, 1, 1, 1, 1,  1, 1, 1, 1, 2, 2, 2],
+                 'harlot' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'villager' :
+                   [1, 2, 2, 2, 3, 3,  3, 4, 4, 5, 5, 5, 6],
+                 'crazed shaman' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'cursed villager' :
+                   [0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0],
+                 'fool' :
+                   [0, 0, 0, 1, 1, 1,  1, 1, 1, 1, 1, 1, 1]}
              }
 
 VILLAGE_ROLES_ORDERED = ['seer', 'shaman', 'harlot', 'villager']
@@ -2753,7 +2778,7 @@ totems = {'death_totem' : 'The player who is given this totem will die tonight.'
           'cursed_totem' : 'The player who is given this totem will gain the cursed template if they do not have it.',
           'lycanthropy_totem' : 'If the player who is given this totem is targeted by wolves during the night, they turn into a wolf instead of dying.',
           'retribution_totem' : 'If the player who is given this totem is targeted by wolves during the night, they kill a random wolf in turn.'}
-SHAMAN_TOTEMS = ['death_totem', 'protection_totem', 'revealing_totem', 'influence_totem', 'impatience_totem', 'pacifism_totem']
+SHAMAN_TOTEMS = ['protection_totem', 'revealing_totem']
 ROLES_SEEN_VILLAGER = ['villager', 'traitor', 'cultist', 'fool']
 ROLES_SEEN_WOLF = ['wolf', 'werecrow', 'cursed']
 WOLFCHAT_ROLES = ['wolf', 'werecrow', 'traitor']
