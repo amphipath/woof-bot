@@ -2779,7 +2779,7 @@ totems = {'death_totem' : 'The player who is given this totem will die tonight.'
           'cursed_totem' : 'The player who is given this totem will gain the cursed template if they do not have it.',
           'lycanthropy_totem' : 'If the player who is given this totem is targeted by wolves during the night, they turn into a wolf instead of dying.',
           'retribution_totem' : 'If the player who is given this totem is targeted by wolves during the night, they kill a random wolf in turn.'}
-SHAMAN_TOTEMS = ['protection_totem', 'revealing_totem']
+SHAMAN_TOTEMS = ['protection_totem']
 ROLES_SEEN_VILLAGER = ['villager', 'traitor', 'cultist', 'fool']
 ROLES_SEEN_WOLF = ['wolf', 'werecrow', 'cursed']
 WOLFCHAT_ROLES = ['wolf', 'werecrow', 'traitor']
